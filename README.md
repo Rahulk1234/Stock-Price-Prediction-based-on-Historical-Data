@@ -52,6 +52,7 @@ Results Summary for ARIMA
 
 
 Forecasting plotted using plotly graph after taking inverse trasform of the predictions from the results of ARIMA Model
+**Blue line indicates the forcasting values**
 
 ![image](https://user-images.githubusercontent.com/26666702/149741034-3d108e80-35c3-4ada-a698-7f24fe14c954.png)
 
